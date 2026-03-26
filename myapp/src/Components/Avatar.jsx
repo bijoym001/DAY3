@@ -11,3 +11,4 @@ function Avtar(){
 }
 
 export default Avtar
+
